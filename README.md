@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Sobre mim
 
-<!--
-**ArthurMelzi/ArthurMelzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me chamo Arthur Melzi dos Santos e eu tenho 16 anos.**  
+Atualmente, estou focado no meu desenvolvimento na área de tecnologia, buscando aprender cada vez mais sobre programação, lógica e criação de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação e Estudos
+
+Estou cursando no **ensino médio** integrado com **desenvolvimento de sistemas**.  
+Tenho interesse especial em:
+
+- 💻 _Programação_
+- 🧠 _Resolução de problemas_
+- 🎮 _Desenvolvimento de projetos criativos (como jogos e sistemas interativos)_
+
+---
+
+## 🚀 Objetivos
+
+Meu principal objetivo é evoluir como desenvolvedor, adquirindo experiência prática e construindo projetos que demonstrem meu aprendizado.
+
+Estou sempre buscando:
+- _Aprender novas tecnologias_
+- _Melhorar meu raciocínio lógico_
+- _Criar projetos cada vez mais completos_
+
+---
+
+## 📌 Atualmente
+
+- _Estudando e praticando programação_
+- _Criando projetos para aplicar meus conhecimentos_
+- _Explorando novas ferramentas e ideias_
+
+---
+
+## 📫 Contato
+
+## 🚀 Acesse meus projetos
+
+[![Email](https://img.shields.io/badge/Ver%20Projetos-181717?style=for-the-badge&logo=github)](mailto:arthurmelzi.dossantos123@gmail.com)
