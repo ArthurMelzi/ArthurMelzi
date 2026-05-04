@@ -39,4 +39,4 @@ Estou sempre buscando:
 
 ## 🚀 Acesse meus projetos
 
-[![Email](https://img.shields.io/badge/Ver%20Projetos-181717?style=for-the-badge&logo=github)](mailto:arthurmelzi.dossantos123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Falar%20Comigo-blue?style=for-the-badge&logo=gmail)](mailto:arthurmelzi.dossantos123@gmail.com)
