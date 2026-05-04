@@ -12,7 +12,7 @@ Tenho interesse especial em:
 
 - 💻 _Programação_
 - 🧠 _Resolução de problemas_
-- 🎮 _Desenvolvimento de projetos criativos (como jogos e sistemas interativos)_
+- 🎮 _Desenvolvimento de sistemas_
 
 ---
 
@@ -37,4 +37,4 @@ Estou sempre buscando:
 
 ## 📫 Contato
 
-[Enviar email](https://mail.google.com/mail/?view=cm&to=arthurmelzi.dossantos123@gmail.com)
+[Email](https://mail.google.com/mail/?view=cm&to=arthurmelzi.dossantos123@gmail.com)
