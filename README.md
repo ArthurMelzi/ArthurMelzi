@@ -37,4 +37,4 @@ Estou sempre buscando:
 
 ## 📫 Contato
 
-[Email](mailto:arthurmelzi.dossantos123@gmail.com)
+[Enviar email](https://mail.google.com/mail/?view=cm&to=arthurmelzi.dossantos123@gmail.com)
