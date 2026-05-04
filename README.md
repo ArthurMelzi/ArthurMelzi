@@ -37,6 +37,4 @@ Estou sempre buscando:
 
 ## 📫 Contato
 
-## 🚀 Acesse meus projetos
-
-[![Email](https://img.shields.io/badge/Email-Falar%20Comigo-blue?style=for-the-badge&logo=gmail)](mailto:arthurmelzi.dossantos123@gmail.com)
+[Email](mailto:arthurmelzi.dossantos123@gmail.com)
